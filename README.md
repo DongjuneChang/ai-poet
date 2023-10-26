@@ -1,5 +1,5 @@
  # ai-poet
- Just practice (nothing meaning) 
+Just practicing (no real purpose)
  
  # other projects 
  all other things are being made with private setting of github
